@@ -2,21 +2,21 @@
 1. [Скріншот 1](screenshots/1.png) - mkdir work для створення папки work, 
                 cd work - перехід у неї, 
                 touch hello.html - створення в ній файлу hello.html
-2. Скріншот 2 - git init - створення Git-ропозиторію
-3. Скріншот 3 - git add hello.html та git commit -m "Initial Commit" - Додавання в репозиторій сторінки hello.html
-4. Скріншот 4 - git status - Перевірка стану репозиторію
-5. Скріншот 5 - Перевірка стану директорії після внесення змін до файлу hello.html
-6. Скріншот 6 - git add hello.html та git status - Індексація змін і перевірка стану
-7. Скріншот 7 - git commit - Коміт усіх змін
-8. Скріншот 8 - git add hello.html - Додавання змін до індексу Git
-9. Скріншот 9 - git status - Перевірка статусу
-10. Скріншот 10 - git commit -m "Added standard HTML page tags" - Комітет проіндексованих змін та git status - перевірка стану
-11. Скріншот 11 - git add . - Додавання зміни в індекс і повторна перевірка статусу
-12. Скріншот 12 - git commit -m "Added HTML header" - коміт другої зміни
-13. Скріншот 13 - git log - Отримання списку зроблених змін
-14. Скріншот 14 - git config --global format.pretty '%h %ad | %s%d [%an]', git config --global log.date short - налаштування формату виводу історії,
+2. [Скріншот 2](screenshots/2.png) - git init - створення Git-ропозиторію
+3. [Скріншот 3](screenshots/3.png) - git add hello.html та git commit -m "Initial Commit" - Додавання в репозиторій сторінки hello.html
+4. [Скріншот 4](screenshots/4.png) - git status - Перевірка стану репозиторію
+5. [Скріншот 5](screenshots/5.png) - Перевірка стану директорії після внесення змін до файлу hello.html
+6. [Скріншот 6](screenshots/6.png) - git add hello.html та git status - Індексація змін і перевірка стану
+7. [Скріншот 7](screenshots/7.png) - git commit - Коміт усіх змін
+8. [Скріншот 8](screenshots/8.png) - git add hello.html - Додавання змін до індексу Git
+9. [Скріншот 9](screenshots/9.png) - git status - Перевірка статусу
+10. [Скріншот 10](screenshots/10.png) - git commit -m "Added standard HTML page tags" - Комітет проіндексованих змін та git status - перевірка стану
+11. [Скріншот 11](screenshots/11.png) - git add . - Додавання зміни в індекс і повторна перевірка статусу
+12. [Скріншот 12](screenshots/12.png) - git commit -m "Added HTML header" - коміт другої зміни
+13. [Скріншот 13](screenshots/13.png) - git log - Отримання списку зроблених змін
+14. [Скріншот 14](screenshots/14.png) - git config --global format.pretty '%h %ad | %s%d [%an]', git config --global log.date short - налаштування формату виводу історії,
                   git log - Отримання історії
-15. Скріншот 15 - git checkout <hash> - Подивитися історію змін за хешем,
+15. [Скріншот 15](screenshots/15.png) - git checkout <hash> - Подивитися історію змін за хешем,
                   cat hello.html - Подивитися вміст файлу hello.html
 16. Скріншот 16 - git switch main - Повернення до останньої версії в гілці,
                   cat hello.html - Подивитися вміст файлу hello.html
