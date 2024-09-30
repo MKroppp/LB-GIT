@@ -1,5 +1,5 @@
 # LB-GIT
-1. [Скріншот 1](screenshots/1.png) - mkdir work для створення папки work, 
+1. ![Скріншот 1](screenshots/1.png) - mkdir work для створення папки work, 
                 cd work - перехід у неї, 
                 touch hello.html - створення в ній файлу hello.html
 2. [Скріншот 2](screenshots/2.png) - git init - створення Git-ропозиторію
