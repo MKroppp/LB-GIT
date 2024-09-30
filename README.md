@@ -2,10 +2,10 @@
 1. ![Скріншот 1](screenshots/1.png) - mkdir work для створення папки work, 
                 cd work - перехід у неї, 
                 touch hello.html - створення в ній файлу hello.html
-2. [Скріншот 2](screenshots/2.png) - git init - створення Git-ропозиторію
-3. [Скріншот 3](screenshots/3.png) - git add hello.html та git commit -m "Initial Commit" - Додавання в репозиторій сторінки hello.html
-4. [Скріншот 4](screenshots/4.png) - git status - Перевірка стану репозиторію
-5. [Скріншот 5](screenshots/5.png) - Перевірка стану директорії після внесення змін до файлу hello.html
+2. ![Скріншот 2](screenshots/2.png) - git init - створення Git-ропозиторію
+3. ![Скріншот 3](screenshots/3.png) - git add hello.html та git commit -m "Initial Commit" - Додавання в репозиторій сторінки hello.html
+4. ![Скріншот 4](screenshots/4.png) - git status - Перевірка стану репозиторію
+5. ![Скріншот 5](screenshots/5.png) - Перевірка стану директорії після внесення змін до файлу hello.html
 6. [Скріншот 6](screenshots/6.png) - git add hello.html та git status - Індексація змін і перевірка стану
 7. [Скріншот 7](screenshots/7.png) - git commit - Коміт усіх змін
 8. [Скріншот 8](screenshots/8.png) - git add hello.html - Додавання змін до індексу Git
